@@ -11,5 +11,5 @@ Therefore, a solution is presented here to help the Department of Housing Preser
 
 The agency needs severals questions:
 
-1. Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
+1. Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first? (here Question 1.ipynb)
 2. Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe) for the specific type of complaints you identified in response to Question 1?
